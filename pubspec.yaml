@@ -1,7 +1,7 @@
 name: sqlite_handler
 description: sqlite handler its package for handle models and database queries.
 version: 0.0.1
-homepage:
+homepage: https://github.com/m-abdulmonem/sqlite-handler
 
 environment:
   sdk: ">=2.15.0 <3.0.0"
